@@ -38,7 +38,7 @@ Using automation tools to spam messages may violate the terms of service of mess
 ---
 
 ## 🖼️ Screenshot
-![Application Screenshot]()
+![Application Screenshot](Spam-Bot-using-PyAutoGUI/screenshot.png)
 
 ---
 
